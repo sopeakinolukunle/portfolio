@@ -1,0 +1,50 @@
+A Claude-powered content creation platform built during the Claude Hackathon @ IU. The tool generates complete multi-channel marketing campaigns—blogs, ads, social posts, 
+and images—in under 60 seconds.
+
+📌 Overview
+
+AI Content Studio enables marketing teams to produce consistent, personalized, and industry-specific content at scale. Powered entirely by Anthropic Claude, it learns brand voice=22222222222222222r4fr43wqwriting style, and visual identity, producing ready-to-publish content across formats.
+
+📌 Problem It Solves
+
+Marketing agencies like BluePeak struggled with slow, manual content creation that took 8–10 hours per campaign. They also faced challenges with scalability, brand consistency, and personalization across industries. AI Content Studio reduces creation time to minutes while maintaining accuracy and brand coherence.
+
+📌 Key Features
+
+Multi-format content generation (blogs, LinkedIn, Twitter, ads, emails, etc.)
+
+Brand voice calibration using text + images
+
+Real-time consistency scoring
+
+Claude-generated SVG visuals that match brand style
+
+17× faster content pipeline
+
+One-click export of all deliverables
+
+📌 Tech Stack
+
+Next.js 16
+
+TypeScript
+
+Tailwind CSS
+
+Claude API (text + vision)
+
+React Hooks
+
+Vercel Deployment
+
+📌 Live Demo
+
+https://your-vercel-url.vercel.app
+
+📌 Source Code
+
+https://github.com/sopeakinolukunle/ai-content-studio
+
+📌 Screenshots
+
+(Add 2–3 screenshots of your UI — homepage, generation dashboard, results page.)
